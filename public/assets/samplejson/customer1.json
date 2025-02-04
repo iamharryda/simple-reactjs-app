@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
-	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
-	"country": "India",
-	"organization": "Company 1",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+	"name": "Nikita",
+	"email": "nikitushu2@gmail.com",
+	"phone": "0468817964",
+	"city": "Helsinki",
+	"state": "-",
+	"country": "Finland",
+	"organization": "Wolt",
+	"jobProfile": "Software Development Student",
+	"additionalInfo": "Studying in Oodi library on weekends"
 }
